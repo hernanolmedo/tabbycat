@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 13:59-0300\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2020-07-23 19:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -157,7 +157,7 @@ msgstr ""
 
 #: standings/speakers.py:100
 msgid "Team"
-msgstr ""
+msgstr "Tim"
 
 #: standings/speakers.py:119 standings/speakers.py:156
 msgid "standard deviation"
@@ -472,7 +472,7 @@ msgstr ""
 #: standings/templates/standings_menu.html:12
 #: standings/templates/standings_menu.html:19
 msgid "Teams"
-msgstr ""
+msgstr "Tim"
 
 #: standings/templates/standings_menu.html:17
 msgctxt "All [Teams]"
