@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 15:26-0300\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2020-07-23 19:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: venues/apps.py:7
 msgid "Rooms"
-msgstr ""
+msgstr "Ruangan"
 
 #: venues/consumers.py:18
 msgid "Draw is already released, unrelease draw to assign rooms."
@@ -60,11 +60,11 @@ msgstr ""
 
 #: venues/models.py:24
 msgid "room"
-msgstr ""
+msgstr "ruangan"
 
 #: venues/models.py:25 venues/models.py:76
 msgid "rooms"
-msgstr ""
+msgstr "ruangan"
 
 #: venues/models.py:61
 msgid "Don't display in room name"
