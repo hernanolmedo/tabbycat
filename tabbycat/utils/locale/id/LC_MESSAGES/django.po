@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2020-07-23 04:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -149,102 +149,102 @@ msgstr "??"
 
 #: utils/tables.py:415
 msgid "advancing"
-msgstr ""
+msgstr "maju"
 
 #: utils/tables.py:416
 msgid "Advancing"
-msgstr ""
+msgstr "Maju"
 
 #: utils/tables.py:418
 msgid "eliminated"
-msgstr ""
+msgstr "tereliminasi"
 
 #: utils/tables.py:419
 msgid "Eliminated"
-msgstr ""
+msgstr "Tereliminasi"
 
 #: utils/tables.py:422 utils/tables.py:432
 msgid "No result for debate"
-msgstr ""
+msgstr "Tak ada hasil untuk debat"
 
 #: utils/tables.py:429
 #, python-format
 msgid "Placed %(place)s"
-msgstr ""
+msgstr "Mendapatkan peringkat %(place)s"
 
 #: utils/tables.py:460
 msgid "Tournament"
-msgstr ""
+msgstr "Turnamen"
 
 #: utils/tables.py:469
 msgid "Round"
-msgstr ""
+msgstr "Ronde"
 
 #: utils/tables.py:487 utils/tables.py:670
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: utils/tables.py:493 utils/tables.py:652
 msgid "Institution"
-msgstr ""
+msgstr "Institusi"
 
 #: utils/tables.py:499
 msgid "Member of the Adjudication Core"
-msgstr ""
+msgstr "Anggota Tim Penjurian Inti"
 
 #: utils/tables.py:506
 msgid "Independent Adjudicator"
-msgstr ""
+msgstr "Juri Undangan"
 
 #: utils/tables.py:514
 msgid "Always Trainee"
-msgstr ""
+msgstr "Selalu Trainee"
 
 #: utils/tables.py:549
 msgid "in minority"
-msgstr ""
+msgstr "sebagai minoritas"
 
 #: utils/tables.py:582
 msgid "Debate Adjudicators"
-msgstr ""
+msgstr "Juri Debat"
 
 #: utils/tables.py:613
 msgid "Order as listed"
-msgstr ""
+msgstr "Diurutkan berdasarkan tertampil"
 
 #: utils/tables.py:623
 msgid "Motion"
-msgstr ""
+msgstr "Mosi"
 
 #: utils/tables.py:638
 msgid "Team"
-msgstr ""
+msgstr "Tim"
 
 #: utils/tables.py:643 utils/tables.py:692
 msgid "Categories"
-msgstr ""
+msgstr "Kategori"
 
 #: utils/tables.py:663
 msgid "Redacted"
-msgstr ""
+msgstr "Dihapus"
 
 #: utils/tables.py:690
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 #: utils/tables.py:717
 #, python-format
 msgid "This room %(predicate)s."
-msgstr ""
+msgstr "Ruangan ini %(predicate)s."
 
 #: utils/tables.py:719
 #, python-format
 msgid "This room %(predicates)s, and %(last_predicate)s."
-msgstr ""
+msgstr "Ruangan ini %(predicates)s, dan %(last_predicate)s."
 
 #: utils/tables.py:734
 msgid "Room"
-msgstr ""
+msgstr "Ruangan"
 
 #: utils/tables.py:750
 #, python-format
