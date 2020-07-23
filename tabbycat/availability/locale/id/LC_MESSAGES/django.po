@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2020-07-23 19:36\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -31,7 +31,7 @@ msgstr ""
 
 #: availability/models.py:20
 msgid "round"
-msgstr ""
+msgstr "ronde"
 
 #: availability/models.py:24
 msgid "round availability"
@@ -170,7 +170,7 @@ msgstr ""
 
 #: availability/templates/checkin_progress.html:7
 msgid "Teams"
-msgstr ""
+msgstr "Tim"
 
 #: availability/templates/checkin_progress.html:8
 msgid "Adjudicators"
@@ -178,7 +178,7 @@ msgstr ""
 
 #: availability/templates/checkin_progress.html:9
 msgid "Rooms"
-msgstr ""
+msgstr "Ruangan"
 
 #: availability/templates/checkin_progress.html:43
 msgid "Mark teams as available"
@@ -351,7 +351,7 @@ msgstr ""
 
 #: availability/views.py:260
 msgid "Room"
-msgstr ""
+msgstr "Ruangan"
 
 #: availability/views.py:262
 msgid "Display Name (for the draw)"
