@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-23 19:35\n"
+"PO-Revision-Date: 2020-07-23 19:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -130,7 +130,7 @@ msgstr ""
 
 #: adjallocation/models.py:18
 msgid "chair"
-msgstr ""
+msgstr "ketua panel"
 
 #: adjallocation/models.py:19
 msgid "panellist"
