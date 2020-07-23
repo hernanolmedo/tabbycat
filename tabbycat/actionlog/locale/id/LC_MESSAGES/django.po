@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-23 05:02\n"
+"PO-Revision-Date: 2020-07-23 19:36\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -295,7 +295,7 @@ msgstr ""
 
 #: actionlog/models.py:168
 msgid "round"
-msgstr ""
+msgstr "ronde"
 
 #: actionlog/models.py:172
 msgid "content type"
