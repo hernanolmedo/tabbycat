@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2020-07-23 19:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -268,11 +268,11 @@ msgstr ""
 
 #: participants/models.py:201 participants/models.py:324
 msgid "team"
-msgstr ""
+msgstr "tim"
 
 #: participants/models.py:202
 msgid "teams"
-msgstr ""
+msgstr "tim"
 
 #: participants/models.py:307
 msgid "Teams must have an institution if they are using the institutional prefix."
@@ -480,7 +480,7 @@ msgstr ""
 
 #: participants/templates/current_round/common.html:15
 msgid "Teams:"
-msgstr ""
+msgstr "Tim:"
 
 #: participants/templates/current_round/common.html:28
 msgid "Adjudicator:"
@@ -491,13 +491,13 @@ msgstr[0] ""
 #: participants/templates/current_round/common.html:39
 msgctxt "chair icon"
 msgid "Ⓒ"
-msgstr ""
+msgstr "Ⓒ"
 
 #: participants/templates/current_round/common.html:37
 #: participants/templates/current_round/common.html:39
 msgctxt "trainee icon"
 msgid "Ⓣ"
-msgstr ""
+msgstr "Ⓣ"
 
 #: participants/templates/current_round/common.html:44
 msgid "There are no panellists or trainees assigned to this debate."
@@ -871,7 +871,7 @@ msgstr ""
 
 #: participants/views.py:106
 msgid "Teams"
-msgstr ""
+msgstr "Tim"
 
 #: participants/views.py:106
 msgid "Number of teams"
