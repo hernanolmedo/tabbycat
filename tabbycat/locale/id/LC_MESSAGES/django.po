@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-19 19:52-0300\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2020-07-23 19:35\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -190,7 +190,7 @@ msgstr ""
 
 #: checkins/views.py:186
 msgid "Rooms"
-msgstr ""
+msgstr "Ruangan"
 
 #: checkins/views.py:227
 #, python-format
@@ -536,12 +536,12 @@ msgstr ""
 
 #: templates/nav/admin_nav.html:192
 msgid "Teams"
-msgstr ""
+msgstr "Tim"
 
 #: templates/nav/admin_nav.html:197 templates/nav/public_nav.html:13
 #, python-format
 msgid "%(category)s Teams"
-msgstr ""
+msgstr "%(category)s Tim"
 
 #: templates/nav/admin_nav.html:204
 msgid "All Speakers"
