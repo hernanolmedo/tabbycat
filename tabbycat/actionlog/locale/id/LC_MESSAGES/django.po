@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-24 04:15-0300\n"
-"PO-Revision-Date: 2020-07-23 04:44\n"
+"PO-Revision-Date: 2020-07-23 04:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -23,47 +23,47 @@ msgstr "Catatan Tindakan"
 
 #: actionlog/models.py:89
 msgid "Discarded ballot set"
-msgstr ""
+msgstr "Membuang lembar penilaian"
 
 #: actionlog/models.py:90
 msgid "Checked in ballot set"
-msgstr ""
+msgstr "Melakukan check-in lembar penilaian"
 
 #: actionlog/models.py:91
 msgid "Created ballot set"
-msgstr ""
+msgstr "Membuat lembar penilaian"
 
 #: actionlog/models.py:92
 msgid "Edited ballot set"
-msgstr ""
+msgstr "Menyunting lembar penilaian"
 
 #: actionlog/models.py:93
 msgid "Confirmed ballot set"
-msgstr ""
+msgstr "Mengkonfirmasi lembar penilaian"
 
 #: actionlog/models.py:94
 msgid "Submitted ballot set from the public form"
-msgstr ""
+msgstr "Memasukkan lembar penilaian melalui form publik"
 
 #: actionlog/models.py:95
 msgid "Submitted feedback from the public form"
-msgstr ""
+msgstr "Memasukkan penilaian juri melalui form publik"
 
 #: actionlog/models.py:96
 msgid "Saved feedback"
-msgstr ""
+msgstr "Menyimpan penilaian juri"
 
 #: actionlog/models.py:97
 msgid "Edited adjudicator base score"
-msgstr ""
+msgstr "Menyunting nilai awal juri"
 
 #: actionlog/models.py:98
 msgid "Set adjudicator note"
-msgstr ""
+msgstr "Menyimpan catatan juri"
 
 #: actionlog/models.py:99
 msgid "Saved adjudicator allocation"
-msgstr ""
+msgstr "Simpan alokasi juri"
 
 #: actionlog/models.py:100
 msgid "Auto-allocated adjudicators"
